@@ -1,0 +1,14 @@
+h1 {
+    color: crimson;
+}
+h3 {
+    color:rgb(245, 24, 91)
+}
+h4 {
+    color:indianred
+}
+
+body { 
+    background-image: url(../gambar/2e2f175b-2988-4920-9a16-7c6bb95ef65d.jpeg);
+    background-size: cover;
+}
